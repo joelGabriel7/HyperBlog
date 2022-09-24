@@ -4,10 +4,14 @@
     margin: auto;
     text-align: center;
     border: 1px solid gray;
-    margin-top: 75px;
+    margin-top: 55px;
 }
 
 .conteiner h1 {
     text-align: left;
   font-size: 35px;
+}
+
+.cabecera{
+    color: crimson;
 }
