@@ -9,9 +9,25 @@
 
 .conteiner h1 {
     text-align: left;
-  font-size: 35px;
+    
 }
 
 .cabecera{
-    color: crimson;
+
+    border: solid #2a53ae;
+    background-color: #1c2c44;
+    padding: 25px;
+    
+}
+
+.cabecera h1{
+  color: whitesmoke;
+  font-weight:300 ;
+}
+
+.cabecera #tagline{
+  font-size: 15px;
+  display: inline-block;
+  margin-top: -150px;
+  
 }
