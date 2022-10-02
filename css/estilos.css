@@ -27,7 +27,7 @@ body{
 
 .cabecera{
     
-    border: solid #2a53ae;
+    border-bottom: solid  #355079;
     background-color: #1c2c44;
     /*padding: 5px;*/
     max-width:100% ;
