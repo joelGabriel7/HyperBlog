@@ -1,2 +1,1 @@
-# practicando-git
-Practica de git con html y css
+Un BLog increible para el Curso de Git y GIthub de Platzi
